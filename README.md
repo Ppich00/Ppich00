@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Refinitiv, an LSEG business
+- 🔭 I’m currently working on TD Tawandang Co.,Ltd.
 - 🌱 I’m currently learning Angular, Web3, TypeScript/JavaScript, ...
 <!--
 - 👯 I’m looking to collaborate on ...
